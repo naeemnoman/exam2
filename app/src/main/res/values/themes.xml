@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UserProfileRegestration_DIPTI_AMAD_L40417" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.UserProfileRegestration_DIPTI_AMAD_L40417" parent="Base.Theme.UserProfileRegestration_DIPTI_AMAD_L40417" />
+</resources>
